@@ -431,10 +431,10 @@
 				DEVELOPMENT_TEAM = CMDH2UACV7;
 				INFOPLIST_FILE = Testing/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.hubbellvoip.pagepart;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.pagepart;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "e916766c-bc70-4180-b191-63a5a26fc3a6";
-				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc VOIP Pagepart";
+				PROVISIONING_PROFILE = "623e24bc-5fb7-40ba-8402-6ea270e781b8";
+				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc-Dev-Wildcard-Profile";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -449,10 +449,10 @@
 				DEVELOPMENT_TEAM = CMDH2UACV7;
 				INFOPLIST_FILE = Testing/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.hubbellvoip.pagepart;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.pagepart;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "e916766c-bc70-4180-b191-63a5a26fc3a6";
-				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc VOIP Pagepart";
+				PROVISIONING_PROFILE = "623e24bc-5fb7-40ba-8402-6ea270e781b8";
+				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc-Dev-Wildcard-Profile";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
