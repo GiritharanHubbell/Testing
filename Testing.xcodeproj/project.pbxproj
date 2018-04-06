@@ -433,8 +433,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.pagepart;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "623e24bc-5fb7-40ba-8402-6ea270e781b8";
-				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc-Dev-Wildcard-Profile";
+				PROVISIONING_PROFILE = "74b5b9d1-ad36-4c21-80c8-12a271f211a3";
+				PROVISIONING_PROFILE_SPECIFIER = "Hubbell App Dev WildCard";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -451,8 +451,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hubbell.pagepart;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "623e24bc-5fb7-40ba-8402-6ea270e781b8";
-				PROVISIONING_PROFILE_SPECIFIER = "Hubbell-Inc-Dev-Wildcard-Profile";
+				PROVISIONING_PROFILE = "74b5b9d1-ad36-4c21-80c8-12a271f211a3";
+				PROVISIONING_PROFILE_SPECIFIER = "Hubbell App Dev WildCard";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
